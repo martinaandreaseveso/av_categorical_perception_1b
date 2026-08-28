@@ -1,5 +1,11 @@
 # av_categorical_perception_1b
 
+**Contributors**
+Martina Andrea Seveso,
+Rebecca Hirst,
+Alan O'Dowd,
+Fiona N. Newell
+
 **Research aims**
 
 To investigate the perceptual similarity of 3D familiar objects continua.
